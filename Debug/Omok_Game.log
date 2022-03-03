@@ -1,0 +1,9 @@
+﻿  omokgame.c
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(72,24): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(477,11): warning C4098: 'press_key': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(483,11): warning C4098: 'press_key': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(489,11): warning C4098: 'press_key': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(495,11): warning C4098: 'press_key': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(425): warning C4715: 'win_check_white': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Dr.ahn\source\repos\Omok_Game\omokgame.c(373): warning C4715: 'win_check_black': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Omok_Game.vcxproj -> C:\Users\Dr.ahn\source\repos\Omok_Game\Debug\Omok_Game.exe

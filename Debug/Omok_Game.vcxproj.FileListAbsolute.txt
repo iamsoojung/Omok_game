@@ -1,0 +1,4 @@
+C:\Users\Dr.ahn\source\repos\Omok_Game\Debug\Omok_Game.exe
+C:\Users\Dr.ahn\source\repos\Omok_Game\Debug\Omok_Game.pdb
+C:\Users\cryst\OneDrive\바탕 화면\프로젝트\C\Omok_Game\Debug\Omok_Game.exe
+C:\Users\cryst\OneDrive\바탕 화면\프로젝트\C\Omok_Game\Debug\Omok_Game.pdb
